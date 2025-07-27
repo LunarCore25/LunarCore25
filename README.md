@@ -49,11 +49,26 @@
 
 ###
 
-<br clear="both">
+## SITE OFICIAL:
 
+- [LunarCore - Site Oficial](https://lunarcore25.github.io/Lunar/)
+
+<h2 align="center">💡 Motivo Para Usar LunarCore?</h2>
+
+- 🔒 Segurança refinada, pensada ao nível do núcleo
+- 🌌 Interface que une estética e poder
+- ⚙️ Performance além dos limites
+- 💎 Cada detalhe feito com precisão visual
+
+---
 <div align="center">
   <img height="2000" src="https://media.discordapp.net/attachments/1398733680423206993/1399146473316417566/interface-executor.png?ex=6887f032&is=68869eb2&hm=00306d1e7c838c3ec16a50e66044780cae3834953629a595fca498520d6f206c&=&format=webp&quality=lossless&width=757&height=427"  />
 </div>
+
+<h2 align="center"></h2>
+
+> “Enquanto os outros seguem o código,  
+> o LunarCore **escreve o seu próprio caminho.**”  
 
 ###
 
