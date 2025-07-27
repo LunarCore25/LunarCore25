@@ -51,8 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LunarCore25/LunarCore25/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
